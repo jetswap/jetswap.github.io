@@ -1,6 +1,7 @@
 ---
 title: "シンタックスハイライト"
 weight: 3
+draft: true
 ---
 
 Hugo は構文強調表示に、純粋な Go で書かれた汎用シンタックスハイライタ [Chroma](https://github.com/alecthomas/chroma) を使用しています。
