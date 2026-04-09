@@ -17,7 +17,7 @@ outputs:
   page: [html, markdown]
   section: [html, rss, markdown]
 
-defaultContentLanguage: ru
+defaultContentLanguage: en
 languages:
   en:
     languageName: English
