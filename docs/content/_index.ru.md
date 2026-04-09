@@ -76,23 +76,3 @@ layout: hextra-home
     icon="sparkles"
   >}}
 {{< /hextra/feature-grid >}}
-
-## Результаты работы с платформой
-
-**30 минут активности = 200 кредитов = 150–200 посетителей на ваш сайт.**
-
-<div class="hx:mt-12 hx:mb-16">
-  {{< hextra/feature-stats
-    title="Ключевые показатели"
-    stats='[
-      {"title": "Заработано кредитов", "value": "2.5M", "unit": "+"},
-      {"title": "Просмотров выдано", "value": "1.8M", "unit": "+"},
-      {"title": "Активных сайтов", "value": "12K", "unit": "+"},
-      {"title": "Пользователей", "value": "28K", "unit": "+"}
-    ]'
-  >}}
-</div>
-
-<div class="hx:mt-12 hx:text-center">
-  {{< hextra/hero-button text="Получить доступ к платформе" link="/register" >}}
-</div>
