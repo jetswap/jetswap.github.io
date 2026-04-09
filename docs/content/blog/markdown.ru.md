@@ -13,6 +13,7 @@ tags:
   - サンプル
   - ガイド
 excludeSearch: true
+draft: true
 ---
 
 この記事では、Hugo のコンテンツファイルで使用できる基本的な Markdown 構文のサンプルを紹介します。
