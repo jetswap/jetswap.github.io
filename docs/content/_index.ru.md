@@ -1,5 +1,5 @@
 ---
-title: Эффективная реклама сайтов
+title: Hextra テーマ
 layout: hextra-home
 ---
 
