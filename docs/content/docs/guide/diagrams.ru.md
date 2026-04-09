@@ -2,6 +2,7 @@
 title: ダイアグラム
 weight: 6
 next: /docs/guide/shortcodes
+draft: true
 ---
 
 現在、Hextra は [Mermaid](#mermaid) によるダイアグラム作成をサポートしています。
