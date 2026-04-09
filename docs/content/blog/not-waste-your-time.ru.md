@@ -9,7 +9,7 @@ tags:
   - Заработок
   - Реклама
   - Трафик
-excludeSearch: true
+excludeSearch: false
 draft: false
 ---
 
