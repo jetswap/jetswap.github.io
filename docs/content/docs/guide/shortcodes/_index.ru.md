@@ -3,6 +3,7 @@ title: ショートコード
 weight: 9
 prev: /docs/guide/diagrams
 next: /docs/guide/shortcodes/callout
+draft: true
 ---
 
 [Hugo ショートコード](https://gohugo.io/content-management/shortcodes/)は、コンテンツファイル内に記述する簡潔なスニペットで、組み込みまたはカスタムテンプレートを呼び出します。
