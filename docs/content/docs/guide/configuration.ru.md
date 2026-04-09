@@ -3,6 +3,7 @@ title: 設定
 weight: 2
 tags:
   - 設定
+draft: true
 ---
 
 Hugo はサイトのルートにある `hugo.yaml` から設定を読み込みます。
