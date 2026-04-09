@@ -3,12 +3,6 @@ title: Эффективная реклама сайтов
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>Стартовые 100 кредитов при регистрации</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
   Рекламируйте сайт за&nbsp;<br class="hx:sm:block hx:hidden" />заработанные кредиты
