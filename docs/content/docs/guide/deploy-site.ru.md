@@ -2,6 +2,7 @@
 title: サイトのデプロイ
 prev: /docs/guide/shortcodes
 next: /docs/advanced
+draft: true
 ---
 
 Hugo は静的サイトを生成するため、柔軟なホスティングオプションが利用可能です。
