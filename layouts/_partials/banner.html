@@ -4,9 +4,7 @@
     {{- with partial "custom/banner.html" . -}}
       {{- . -}}
     {{- else -}}
-      <div style="white-space: pre-wrap" class="hx:px-8">
-        {{- site.Params.banner.message | default "🎉 Welcome! This is a banner message." | .RenderString -}}
-      </div>
+      <div style="white-space: pre-wrap" class="hx:px-8">   </div>
     {{- end -}}
     <button
       class="hextra-banner-close-button hx:cursor-pointer hx:absolute hx:right-0 hx:text-white hx:font-bold hx:leading-none hx:hover:opacity-75 hx:transition hx:w-10 hx:h-10 hx:-mr-2 hx:md:mr-0 hx:flex hx:items-center hx:justify-center"
