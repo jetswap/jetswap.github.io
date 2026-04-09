@@ -1,6 +1,7 @@
 ---
 title: Markdown
 weight: 2
+draft: true
 ---
 
 Hugo はテキストの書式設定やリスト作成などに [Markdown](https://en.wikipedia.org/wiki/Markdown) 構文をサポートしています。このページでは、最も一般的な Markdown 構文の例を紹介します。
