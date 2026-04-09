@@ -3,6 +3,7 @@ linkTitle: 高度な設定
 title: 高度なトピック
 prev: /docs/guide/shortcodes/tabs
 next: /docs/advanced/multi-language
+draft: true
 ---
 
 このセクションでは、テーマの高度なトピックについて説明します。
