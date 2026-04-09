@@ -2,6 +2,7 @@
 title: ファイルの整理
 weight: 1
 prev: /docs/guide
+draft: true
 ---
 
 ## ディレクトリ構造
