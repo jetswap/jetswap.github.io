@@ -1,6 +1,7 @@
 ---
 title: "LaTeX"
 weight: 4
+draft: true
 ---
 
 LaTeX の数式表現はデフォルトで \(\KaTeX\) ([katex.org](https://katex.org/)) を使用してレンダリングされます。特別な設定なしで、Markdown コンテンツ内に直接記述できます。
