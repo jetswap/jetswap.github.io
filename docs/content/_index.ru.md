@@ -23,8 +23,7 @@ layout: hextra-home
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Зарегистрироваться бесплатно" link="/register" >}}
-{{< hextra/hero-button text="Как это работает" link="/how-it-works" secondary="true" >}}
+{{< hextra/hero-button text="Документация" link="/docs" >}}
 </div>
 
 <div class="hx:mt-6"></div>
